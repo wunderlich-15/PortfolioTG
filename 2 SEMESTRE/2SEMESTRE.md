@@ -33,7 +33,74 @@ a preferência tmabem era de ceerta forma estilizar as telas do Java Swing pois 
 <details>
 <summary><h4>Mais Detalhes</h4></summary>
 
-Após isso, uma nova classe em Java foi criada para inserir registros dentro do banco de dados. Dentro desta classe, foi implementado um método específico que chama outro método de outra classe para estabelecer a conexão com o banco de dados. Depois, um comando SQL foi escrito para cadastrar as vagas de emprego no banco. As informações sobre o usuário são coletadas por meio de uma interface gráfica (GUI). Esta interface coleta os dados e os passa para a classe que armazena temporariamente essas informações.
+Após isso, uma nova classe em Java foi criada para inserir registros dentro do banco de dados. Dentro desta classe, foi implementado um método específico que chama outro método de outra classe para estabelecer a conexão com o banco de dados. Depois, um comando SQL foi escrito para cadastrar os candidatos no banco. As informações sobre o usuário são coletadas por meio de uma interface gráfica (GUI). Esta interface coleta os dados e os passa para a classe que armazena temporariamente essas informações.
 
-A classe que contém o método de cadastro de vagas no banco então coleta os dados do DTO e os incorpora ao comando SQL. Finalmente, este método executa o comando no banco de dados, criando o novo usuário. Este processo garante que as vagas sejam inseridas corretamente e de maneira eficiente no sistema, facilitando o gerenciamento e a manutenção das informações sobre as oportunidades de emprego disponíveis.  </p>
+A classe que contém o método de cadastro de vagas no banco então coleta os dados do DTO e os incorpora ao comando SQL. Finalmente, este método executa o comando no banco de dados, criando o novo usuário. Este processo garante que os candidatos sejam inseridos corretamente e de maneira eficiente no sistema, facilitando o gerenciamento e a manutenção das informações pessoais com segurança e eficiência.  </p>
+
+```
+
+  public void cadastrarCandidato(Candidato objcandidato) {
+
+        String sql = "insert into candidato (cpf, nome_completo, data_nascimento, email, telefone, endereco, pretencao_salarial, senha) values (?,?,?,?,?,?,?,MD5(?))";
+        conn = new ConexaoDAO().conectaBD();
+
+        try {
+            
+            pstm = conn.prepareStatement(sql);
+            
+            pstm.setString(1, objcandidato.getCPF());
+            pstm.setString(2,objcandidato.getNome_Completo());
+            pstm.setString(3, objcandidato.getData_Nascimento());
+            pstm.setString(4, objcandidato.getEmail());
+            pstm.setLong(5, objcandidato.getTelefone());
+            pstm.setString(6, objcandidato.getEndereco());
+            pstm.setDouble(7, objcandidato.getSalario());
+            pstm.setString(8, objcandidato.getSenha());
+            
+            pstm.execute();
+            pstm.close();
+            
+            JOptionPane.showMessageDialog(null, "Os dados foram salvos !");
+
+        } catch (SQLException erro) {
+            JOptionPane.showMessageDialog(null, "CandidatoDAO" + erro);
+        }
+
+    }
+```
+
+</details>
+
+### Exlusão de vagas do Sistema
+<p>A exclusão das vagas do banco de dados também é um script essecial do gerenciamento do sistema já que faz parte do CRUD de uma das principais vertentes do projeto como um todo</p>
+
+<details>
+<summary><h4>Mais Detalhes</h4></summary>
+<p>Este método Java realiza a exclusão de vagas em um banco de dados. Ele recebe um objeto Vaga como parâmetro, estabelece conexão com o banco usando a classe ConexaoDAO e executa um comando SQL DELETE com prepared statements, utilizando o ID da vaga obtido do objeto. O sistema mostra uma mensagem de sucesso após a exclusão ou trata possíveis erros com mensagens adequadas.
+
+A implementação segue boas práticas de programação, como separação de responsabilidades (DAO e DTO), prevenção contra injeção SQL (usando prepared statements) e tratamento de exceções. Isso garante que a exclusão seja segura e eficiente, mantendo a integridade dos dados no banco.  </p>
+
+```
+       public void excluirVaga(Vaga objvagadto){
+            String sql = "delete from vaga where id_vaga = ?";
+            conn = new ConexaoDAO().conectaBD();
+            
+            try {
+                
+                pstm = conn.prepareStatement(sql);
+                
+                pstm.setInt(1, objvagadto.getId_vaga());
+                
+                pstm.execute();
+                pstm.close();
+                
+                JOptionPane.showMessageDialog(null, "Vaga Excluida");
+                
+                
+            } catch (SQLException erro) {
+                JOptionPane.showMessageDialog(null,"VagaDAO: Excluir" + erro);
+            
+            }
+```
+
 </details>
