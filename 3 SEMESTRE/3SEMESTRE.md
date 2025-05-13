@@ -1,4 +1,7 @@
-#### Problema ‼️
+# 3 Semestre 2023/1
+## DR Convert
+
+#### Problema
 Nos foi proposto pela empresa parceira Domrock  um desafio relacionado à sua arquitetura automatizada de processamento de dados em pipeline, composta por vários estágios orquestrados conforme as necessidades dos clientes. O principal obstáculo era a configuração manual das fontes de dados, essencial para o funcionamento da plataforma, que demandava técnicos especializados, comprometia a agilidade na implantação e tornava a operação dependente de profissionais qualificados para preparar os dados corretamente.
 
 ![Image](https://github.com/user-attachments/assets/ba82ebfc-fec5-4d79-875d-50c28cb205aa)
