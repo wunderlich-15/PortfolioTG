@@ -37,6 +37,7 @@ Além disso, era necessário assegurar respostas rápidas às consultas e manter
 Fiquei responsável pelo elndpoint que deletar usuários do sistema afim de tornar o proejto 100% funcional com o Crud Relacional Impecável tendo todas suas principais funções implementadas
 <summary>Mais detalhes</details>
 <details>
+
 ``` java
     @Operation(
         summary = "Delete System user.",
@@ -63,6 +64,7 @@ Este trecho de código define um endpoint REST para deletar um usuário do siste
 Fiquei também responsável pela docuemntação dos endpoints do projeto no Swgger afim de de tornar o projeto mais organizado e com o código limpo para que pudesse auxiliar ao máximo todo e qualquer desenvolvedor a saber como funciona cada endpoint do projeto
 <summary>Mais Detalhes</summary>
 <details>
+
 ```java
 @Operation(
         summary = "Get all Locals.",
@@ -84,6 +86,7 @@ Este código documenta um endpoint que retorna uma lista de todos os locais cada
 Foi necessária tambem a implementação de uma rota rastreável para cada coordenada no mapa então fui o responsável pela implementação deste código no frontendo do projeto.
 <summary>Mais detalhes</summary>
 <details>
+
 ``` javascript
         const routeId = `route${elementData.userCode}`;
         map.value?.addSource(routeId, {
