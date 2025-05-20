@@ -104,3 +104,14 @@ A implementação segue boas práticas de programação, como separação de res
 ```
 
 </details>
+
+#### Hard Skills
+
+- Java - tive masi contato a partir deste semestre com a linguagem Java em si tendo que me adadptar a casos diferentes ao uso dela ao longo do projeto como em criação de novas funções e métodos.
+- Figma - Criei protótipos e colaborei no design da solução, utilizando a ferramenta para definir interfaces e interações de forma eficiente.
+- Git/GitHub - Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.
+
+#### Soft Skills
+- Comunicação - Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente.
+- Gestão de Tempo - Aprendia a lidar com diferentes cargas de trabalho ao logno do projeto conciliando-as com a vida pessoal e profisssional fora da faculdade.
+- Proatividade - Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento. 
