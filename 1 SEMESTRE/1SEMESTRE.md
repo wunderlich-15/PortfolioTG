@@ -221,11 +221,11 @@ Exemplos dos Códigos Abaixo:
 ### Lições aprendidas
 Foi o primeiro contato com um porjeto integrador e pude desenvolver minhas habilidades como trabalho em equipe, comunicação e lidar com prazos e pedidos do cliente, pude trabalhar meu raciocinio lógico e aprendi novas formas de sair de situações com as quais achei que ja sabia como lidar.
 #### Hard Skills
-- Python
-- Logica de programação
-- Scrum
+- Python: tive de ldiar com o Python 100% do projeto para o desenvolver, apredner a utilização e instalação de bibliotecas tnato como versionamento do cordigo em diferentes maquinas.
+- Logica de programação: Foi necessária a logica de progrmação como base para a execução do projeto e como o programar corretamente tendo a ciência de como as funç~eos seriam iplementadas.
+- Scrum: A metodolgoai de trabalho Scrum foi necessária para que se pudesse ter a noção de organizaçõ e prazos durante a execução do projeto.
 
 #### Soft Skills
-- comunicação
-- trabalho em equipe
-- organizção
+- Trabalho em equipe - Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo.
+- Comunicação - Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente.
+- Proatividade - Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento.
