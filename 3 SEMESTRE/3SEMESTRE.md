@@ -39,13 +39,13 @@ Repositório: <a href="https://github.com/Equipe-Void/drconvert.git">GIT</a>
 
 #### Hard Skills
 
--Git/GitHub - Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.
--React - Desenvolvi interfaces interativas e dinâmicas no Front-End, utilizando componentes reutilizáveis e garantindo uma navegação fluida e eficiente.
--Tailwind CSS - Apliquei este framework para estilizar as interfaces de maneira rápida e prática, com design responsivo e personalizável através de utilitários de classe.
--TypeScript - Utilizei a linguagem para adicionar tipagem estática ao código JavaScript, melhorando a segurança e a manutenção do código no Front-End.
--MySQL - Fiquei responsável pela modelagem de dados e gerenciamento de bancos relacionais, criando consultas SQL avançadas e realizando ajustes no banco conforme necessário.
--Java (Spring Boot) - Desenvolvi aplicações Backend, configurando endpoints e realizando integrações de maneira independente, com foco na automação e escalabilidade.
--Figma - Criei protótipos e colaborei no design da solução, utilizando a ferramenta para definir interfaces e interações de forma eficiente.
+- Git/GitHub - Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.
+- React - Desenvolvi interfaces interativas e dinâmicas no Front-End, utilizando componentes reutilizáveis e garantindo uma navegação fluida e eficiente.
+- Tailwind CSS - Apliquei este framework para estilizar as interfaces de maneira rápida e prática, com design responsivo e personalizável através de utilitários de classe.
+- TypeScript - Utilizei a linguagem para adicionar tipagem estática ao código JavaScript, melhorando a segurança e a manutenção do código no Front-End.
+- MySQL - Fiquei responsável pela modelagem de dados e gerenciamento de bancos relacionais, criando consultas SQL avançadas e realizando ajustes no banco conforme necessário.
+- Java (Spring Boot) - Desenvolvi aplicações Backend, configurando endpoints e realizando integrações de maneira independente, com foco na automação e escalabilidade.
+- Figma - Criei protótipos e colaborei no design da solução, utilizando a ferramenta para definir interfaces e interações de forma eficiente.
 
 #### Soft Skills
 - Trabalho em equipe - Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo.  
