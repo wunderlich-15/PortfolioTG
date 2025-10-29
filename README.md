@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Meu nome é Guilherme, tenho 20 anos e meus principais hobbies são videogame e ciclismo, tenho comod uma das minha principais paixões a música, me desenvolvo na área de progrmaação desde 2019 quando iniciei um curso técnico em desenvolvimento de sistemas pela Etec de São josé dos Campos, atualemnte me encontro no 4° semestre de Banco de Dados na Fatec - SJC.Ainda busco oportunidades de trabalho na área de programação. 
+Meu nome é Guilherme, tenho 21 anos e meus principais hobbies são videogame e ciclismo, tenho como uma das minha principais paixões a música, me desenvolvo na área de progrmaação desde 2019 quando iniciei um curso técnico em desenvolvimento de sistemas pela Etec de São josé dos Campos, atualmente me encontro no 6° semestre de Banco de Dados na Fatec - SJC. Ainda busco oportunidades de trabalho na área de programação. 
 
 ## Contatos
 * [GIT](https://github.com/wunderlich-15/)
