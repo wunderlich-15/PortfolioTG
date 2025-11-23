@@ -15,9 +15,9 @@ Conhecimento sólido em desenvolviemtno voltado para a Web e na utilização de 
 Desejo desenvolver mais meus conhecimento em backend e Banco de dados. 
 
 ## Meus Projetos 
-- [1º Semestre - Mó viagem](./1 SEMESTRE/1SEMESTRE.md)
-- [2º Semestre - ](./2sem/README.md)
-- [3º Semestre - ](./3sem/README.md)
-- [4º Semestre - ](./4sem/README.md)
-- [5º Semestre - ](./5sem/README.md)
-- [6º Semestre - ](./6sem/README.md)
+- [1º Semestre - Mó viagem](./1SEMESTRE/1SEMESTRE.md)
+- [2º Semestre - ](./2SEMESTRE/2SEMESTRE.md)
+- [3º Semestre - ](./3SEMESTRE/3SEMESTRE.md)
+- [4º Semestre - ](./4SEMESTRE/4SEMESTRE.MD)
+- [5º Semestre - ](./5SEMESTRE/5SEMESTRE.md)
+- [6º Semestre - ](./6SEMESTRE/6SEMESTRE.md)
