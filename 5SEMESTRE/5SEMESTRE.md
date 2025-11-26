@@ -41,6 +41,7 @@ Fui responsável pela criação do backlog do projeto e adequação de acordo co
 
 <summary>Mais Detalhes</summary>
 <details>
+    
 | **Rank** | **Épico** | **User Storie** | **Estimativa** | **Requisito do Parceiro** | **Status**|
 |---------|-----------|-----------------|---------------|--------------------------|---------------|
 | 1 | Dashboard de Indicadores | Como um operador, quero visualizar a quantidade de cards por etiqueta, para que eu possa entender a distribuição das minhas tarefas. | 1 | RF1, RF2 | ✅ | 
@@ -63,7 +64,7 @@ Fui responsável pela criação do backlog do projeto e adequação de acordo co
 | 17 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards criados por período, para que eu possa acompanhar a criação das tarefas ao longo do tempo. | 3 | RF1, RF3 | 🔧 |
 | 18 | Dashboard de Indicadores | Como um admin, quero visualizar a quantidade de cards finalizados por período, para que eu possa acompanhar a entrega das tarefas ao longo do tempo. | 3 | RF1, RF4 | 🔧 | 
 
-<details>
+</details>
 
 #### Protótipos de telas
 
@@ -112,6 +113,7 @@ Como parte da matéria de Devops fui responsável pela parte de documentação e
     ´´´
 </details>
 
+### Hard Skill e Soft Skills
 
 #### Hard Skills
 - Spring Boot
