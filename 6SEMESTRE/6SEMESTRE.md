@@ -279,9 +279,47 @@ class TicketStatusRepository:
         ]
 
         cursor = collection.aggregate(pipeline)
+
+
         result = list(cursor)
 
        
         return result
 ```
+</details>
+
+### Soft e Hard Skills
+<p>Consegui conciliar durante o desenvolvimento do projeto com eficiência coordenando as tarefas de maneira eficaz, pude notar algumas dificuldades pontuais minhas onde pude trabalhar nelas sendo ou não auxiliado e realmente entender o que ocorria em determinadas situações tudo isso sem preudicar o desenvolvimento do projeto, o que foi exetremamente importante além disso colaborei de forma eficaz com meus colegas de equipe os auxiliando também em suas dificuldades pessoais </p>
+
+
+#### Soft Skills
+<details>
+
+| Habilidade | Classificação |
+| :-----: | :-----: |
+| Proatividade | Busquei ao máximo trabalhar em tasks e auxiliar sempre que necessário o grupo |
+| Responsabilidade | Fiz de tudo para semrpe priorizar o desenvolvimento do projeto para não atrasar o time |
+| Companheirismo	| Após finalizar o que eu era encarregado buscava auxiliar os colegas |
+| Flexibilidade	| Tive de equilibrar trabalho, demais materias da faculdade e a produção do projeto |
+
+</details>
+
+#### Hard Skills
+<details>
+
+| Habilidade | Nota | Classificação |
+| :-----: | :-----: | :-----: | 
+| Python | ★★★★★ | Sei fazer com autonomia |
+| Jira | ★★★☆☆ | Sei fazer com ajuda |
+| Git |	★★★★☆ | Entendi |
+| Postman | ★★★★☆ | Sei fazer com autonomia |
+| HTML5 | ★★★☆☆ | Entendi |
+| JavaScript |	★★★☆☆ | Entendi |
+| VueJS | ★★★☆☆ | Entendi |
+| VSCode | ★★★★★ | Sei fazer com autonomia |
+| GitHub | ★★★★★ | Sei fazer com autonomia |
+| TypeScript | ★★★☆☆ | Entendi |
+| MongoDB |	★★★☆☆ | Entendi |
+| Porphet | ★★★☆☆ | Sei fazer com ajuda |
+
 </details>
