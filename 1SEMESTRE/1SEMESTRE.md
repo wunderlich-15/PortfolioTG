@@ -1,6 +1,8 @@
 # 1º Semestre - 2022/1
 
 ## Mó viagem
+Repositório:<a href="https://github.com/lucasetdasilva/GrupoCachinhos">GIT</a>
+
 Projeto do primeiro semestre tinha como cliente a própria Faculdade de tecnologia de São José dos Campos, se trata de um assistente virtual de viagens, serve para auxiliar o usuário a planejar futuras viagens tendo como funcionalidades:
 - `Previsão do tempo`: Nesta função, o usuário pode pesquisar a previsão do tempo no destino desejado. </br>
 - `Lista de desejos`: Através desta funcionalidade, o usuário pode criar uma lista de locais que ele deseja visitar.</br>
@@ -254,3 +256,6 @@ Foi o primeiro contato com um projeto integrador e pude desenvolver minhas habil
 | Proatividade	| Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento. |
 
 </details>
+
+
+[Página Inicial](https://github.com/wunderlich-15/PortfolioTG/tree/main)
