@@ -1,6 +1,9 @@
 # 2 SEMESTRE 2022/2
 ## PRO4JOBS
 Cliente: PRO4TECH
+
+Repositório: <a href="https://github.com/lucasetdasilva/GrupoCodados">GIT</a>
+
 PRO4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego, otimizar o trabalho das pessoas do setor de Recursos Humanos O Candidato poderá vizualizar e se candidatar as vagas de emprego que o RH disponibilizará, enquanto o Rh pode analisar e filtrar os perfis dos candidatos as vagas e decidir se devem aporva-los ou não.
 
 ### Tecnologias e Bibliotecas Utilizadas
@@ -10,11 +13,11 @@ PRO4Jobs é uma aplicação Desktop com o objetivo de gerenciar vagas de emprego
 
 ## Contribuições Pessoais
 ### Criação de Mockups e prototipação do projeto
-Num primeiro momento do projeto foi necessario planejá-lo então atuei desenvolvendo as telas atravaes do aplicativo web Figma, prototipando detalehs como campos de inserção e o design das telas, pensando sempre na experiencia do usuário e em criar jum sistema intuitivo.
+Num primeiro momento do projeto foi necessario planejá-lo então atuei desenvolvendo as telas atravaes do aplicativo web Figma, prototipando detalhes como campos de inserção e o design das telas, pensando sempre na experiência do usuário e em criar um sistema intuitivo.
 <details>
 <summary><h4>Mais Detalhes</h4></summary>
-<p>Para a criação das telas foi pensado e deixar o sistema facil de ser utilizado e tmabem com design simples para que evitasse poluição visual e também as telas brancas padrão do java,
-a preferência tmabem era de ceerta forma estilizar as telas do Java Swing pois o mesmo não da opção apra customização ou estilização das telas.</p>
+<p>Para a criação das telas foi pensado e deixar o sistema facil de ser utilizado e também com design simples para que evitasse poluição visual e também as telas brancas padrão do java,
+a preferência também era de certa forma estilizar as telas do Java Swing pois o mesmo da muito poucas opções para customização ou estilização das telas.</p>
 <p>Alguns exemplos</p>
   
   <p><h5>Tela de Login</h5></p>
@@ -107,11 +110,30 @@ A implementação segue boas práticas de programação, como separação de res
 
 #### Hard Skills
 
-- Java - tive masi contato a partir deste semestre com a linguagem Java em si tendo que me adadptar a casos diferentes ao uso dela ao longo do projeto como em criação de novas funções e métodos.
-- Figma - Criei protótipos e colaborei no design da solução, utilizando a ferramenta para definir interfaces e interações de forma eficiente.
-- Git/GitHub - Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.
+
+<details>
+
+| Habilidade | Nota | Classificação |
+| :-----: | :-----: | :-----: | 
+| Java | ★★★☆☆ | Sei fazer com ajuda |
+| Figma | ★★★★☆ | Entendi |
+| Git |	★★★☆☆ | Sei fazer com ajuda |
+
+
+</details>
 
 #### Soft Skills
-- Comunicação - Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente.
-- Gestão de Tempo - Aprendia a lidar com diferentes cargas de trabalho ao logno do projeto conciliando-as com a vida pessoal e profisssional fora da faculdade.
-- Proatividade - Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento. 
+
+
+<details>
+
+| Habilidade | Classificação |
+| :-----: | :-----: |
+| Comunicação | Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente. |
+| Gestão de Tempo | Aprendi a lidar com diferentes cargas de trabalho ao logno do projeto conciliando-as com a vida pessoal e profisssional fora da faculdade. |
+| Proatividade	| Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento. |
+
+</details>
+
+
+[Página Inicial](https://github.com/wunderlich-15/PortfolioTG/tree/main)
