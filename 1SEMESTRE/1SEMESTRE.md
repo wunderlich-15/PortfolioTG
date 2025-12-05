@@ -28,11 +28,15 @@ Foi utilizado como única linguagem de programação o Python no backend e suas 
 ## Contribuições Pessoais
 
 ### Previsão do tempo e Calendário de Feriados: 
-Como desenvolvedor  desenvolvi com a Tecnologia do Python,  utilizando as bibliotecas da API OpenWeather, PyAudio, Holidays e Webbrowser. Fiz uso dessas bibliotecas trabalhando em conjunto para que assim conseguisse retornar ao usuario funções indispensáveis para o planejamento de uma viagem como o calendário de feriados do destino e a previsão do clima que estaria no local pretendido, podendo retornar até o mês inteiro de planejamento possível para o usuário.
+Como desenvolvedor implementei com a Tecnologia do Python,  utilizando as bibliotecas da API OpenWeather, PyAudio, Holidays e Webbrowser. Fiz uso dessas bibliotecas trabalhando em conjunto para que assim conseguisse retornar ao usuario funções indispensáveis para o planejamento de uma viagem como o calendário de feriados do destino e a previsão do clima que estaria no local pretendido, podendo retornar até o mês inteiro de planejamento possível para o usuário.
 Exemplos dos Códigos Abaixo:
 
 #### Previsão do tempo:
-```
+
+<details>
+<summary><h4>Mais Detalhes</h4></summary>
+   
+``` python
    #Previsão do tempo
         if "previsão do tempo" in texto:
             convertFala("Para onde você pretende ir")
@@ -67,9 +71,15 @@ Exemplos dos Códigos Abaixo:
             elif (converter >= 16 and converter <= 27):
                 convertFala("Hoje o clima estará agradável, aproveite")
 ```
+
+</details>
+
 ### Calendário de Feriados
 
-```
+<details>
+<summary><h4>Mais Detalhes</h4></summary>
+
+``` python
 #Calendario de Feriados
         elif "calendário" or "calendário de feriados" in texto:
             
@@ -217,15 +227,30 @@ Exemplos dos Códigos Abaixo:
                 convertFala(x)
 
 ```
+</details>
 
 ### Lições aprendidas
-Foi o primeiro contato com um porjeto integrador e pude desenvolver minhas habilidades como trabalho em equipe, comunicação e lidar com prazos e pedidos do cliente, pude trabalhar meu raciocinio lógico e aprendi novas formas de sair de situações com as quais achei que ja sabia como lidar.
+Foi o primeiro contato com um projeto integrador e pude desenvolver minhas habilidades como trabalho em equipe, comunicação e lidar com prazos e pedidos do cliente, pude trabalhar meu raciocinio lógico e aprendi novas formas de sair de situações com as quais achei que ja sabia como lidar.
+
 #### Hard Skills
-- Python: tive de ldiar com o Python 100% do projeto para o desenvolver, apredner a utilização e instalação de bibliotecas tnato como versionamento do cordigo em diferentes maquinas.
-- Logica de programação: Foi necessária a logica de progrmação como base para a execução do projeto e como o programar corretamente tendo a ciência de como as funç~eos seriam iplementadas.
-- Scrum: A metodolgoai de trabalho Scrum foi necessária para que se pudesse ter a noção de organizaçõ e prazos durante a execução do projeto.
+
+<details>
+   
+| Habilidade | Nota | Classificação |
+| :-----: | :-----: | :-----: | 
+| Python | ★★★☆☆ | Sei fazer com ajuda|
+| Lógica de programação | ★★★☆☆ | Sei fazer com ajuda |
+| SCRUM |	★★★★☆ | Entendi |
+
+</details>
 
 #### Soft Skills
-- Trabalho em equipe - Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo.
-- Comunicação - Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente.
-- Proatividade - Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento.
+<details>
+
+| Habilidade | Classificação |
+| :-----: | :-----: |
+| Trabalho em equipe | Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo. |
+| Comunicação | Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente. |
+| Proatividade	| Tive uma maior noção do significado correto de proatividade onde aprendi a como me portar corretamente num modelo de projeto orientado a metodologia ágil Scrum e como cada task impacta no desenvolvimento. |
+
+</details>
