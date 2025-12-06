@@ -1,5 +1,9 @@
 # 5 Semestre 2025/1
 ## VISION
+
+Repositório: <a href="https://github.com/new-ge/VISION">GIT</a>
+
+
 ### Problema
 <p>O desenvolvimento do projeto se trata de uma solução sob medida para a empresa Youtan, localizada no parque tecnológico de São José dos Campos, a youtan lida com desenvolvimento de softwares desde 2002, a Youtan atua com metodologias ágeis e tecnologias modernas para transformar ideias em soluções digitais para Web, Desktop e Mobile. Além disso, oferece o SIGI, seu próprio ERP em modelo SaaS, voltado para empresas B2B de pequeno e médio porte.</p> 
 <p>A proposta do VISION, é ser uma ferramenta de visualização de indicadores integrada à plataforma Taiga, com foco em tornar a gestão de projetos mais eficiente, visual e transparente. A Vision permite que usuários acompanhem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e mais.</p>
@@ -116,14 +120,28 @@ Como parte da matéria de Devops fui responsável pela parte de documentação e
 ### Hard Skill e Soft Skills
 
 #### Hard Skills
-- Spring Boot
-Utilizei o Spring Boot para desenvolver a API do projeto, aproveitando sua configuração simplificada e integração com outros módulos do Spring. Isso acelerou o desenvolvimento e garantiu uma estrutura robusta.
 
-- Oracle
-Implementei o banco de dados com Oracle para armazenar informações da aplicação. A confiabilidade e os recursos da plataforma foram fundamentais para lidar com grandes volumes de dados.
+<details>
+
+| Habilidade | Nota | Classificação |
+| :-----: | :-----: | :-----: | 
+| Spring Boot | ★★★★★ | Sei fazer com autonomia |
+| Oracle | ★★★★☆ | Entendi |
+
+
+</details>
+
 
 #### Soft Skills
-- Trabalho em Equipe: Durante o desenvolvimento do gerenciamento de usuários e da autenticação de usuários, colaborei ativamente com outros membros da equipe para garantir que o sistema estivesse funcionando de forma coesa, implementando soluções técnicas de forma eficaz e dentro dos requisitos do projeto.
-- Gerenciamento de Tempo: Ao entrar no projeto tive que readequar a minha rotina para encontrar um alinhamento entre trabalho e faculdade e semrpe encontrando horários bons para desenvolver os códigos e funções que a mim eram indicados.
-- Liderança: Durante o desenvlvimento aprendi como liderar e como tomar decisões importantes para o grupo e o futuro da aplicação
-- Metodologia Scrum: Pude ter mais contato com a metodologia scrum a fundo de uma posição naqual nunca tinha estado antes trazendo melhor entendimento dos papéis de cada um no projeto e como auxiliar em determinadas dúvidas
+<details>
+
+| Habilidade | Classificação |
+| :-----: | :-----: |
+| Trabalho em Equipe | Durante o desenvolvimento do gerenciamento de usuários e da autenticação de usuários, colaborei ativamente com outros membros da equipe para garantir que o sistema estivesse funcionando de forma coesa, implementando soluções técnicas de forma eficaz e dentro dos requisitos do projeto. |
+| Gerenciamento de Tempo | Ao entrar no projeto tive que readequar a minha rotina para encontrar um alinhamento entre trabalho e faculdade e semrpe encontrando horários bons para desenvolver os códigos e funções que a mim eram indicados. |
+| Liderança | Durante o desenvlvimento aprendi como liderar e como tomar decisões importantes para o grupo e o futuro da aplicação |
+| Metodologia Scrum	| Pude ter mais contato com a metodologia scrum a fundo de uma posição naqual nunca tinha estado antes trazendo melhor entendimento dos papéis de cada um no projeto e como auxiliar em determinadas dúvidas |
+
+</details>
+
+[Página Inicial](https://github.com/wunderlich-15/PortfolioTG/tree/main)
