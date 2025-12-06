@@ -97,6 +97,7 @@ Como parte da matéria de Devops fui responsável pela parte de documentação e
 <summary></summary>
 <details>
 <p><h5>Exemplo de Teste Implementado no Backend</h5></p>
+    
     ´´´ java
 
         @Operation(summary = "Processa o login com base no username e a senha.", description = "Processa o username e a senha e verifica se há um login válido para entrar na aplicação")
@@ -107,6 +108,7 @@ Como parte da matéria de Devops fui responsável pela parte de documentação e
     ´´´
 
 <p><h5>Exemplo de Teste Implementado no Frontend</h5></p>
+
     ´´´
         it('should create graphics instances correctly', () => {
             const chartJs = require('chart.js')                     // Arrange
