@@ -63,7 +63,7 @@ Este trecho de código define um endpoint REST para deletar um usuário do siste
 </details>
 
 #### Domcumentação dos Endpoints no Swagger
-Fiquei também responsável pela docuemntação dos endpoints do projeto no Swgger afim de de tornar o projeto mais organizado e com o código limpo para que pudesse auxiliar ao máximo todo e qualquer desenvolvedor a saber como funciona cada endpoint do projeto
+Fiquei também responsável pela documentação dos endpoints do projeto no Swgger afim de de tornar o projeto mais organizado e com o código limpo para que pudesse auxiliar ao máximo todo e qualquer desenvolvedor a saber como funciona cada endpoint do projeto
 <summary>Mais Detalhes</summary>
 <details>
 
@@ -137,12 +137,27 @@ Limpa os dados temporários, resetando as coordenadas (formattedCoords e allCoor
 </details>
 
 #### Hard Skills
-- Spring Boot
-Utilizei o Spring Boot para desenvolver a API do projeto, aproveitando sua configuração simplificada e integração com outros módulos do Spring. Isso acelerou o desenvolvimento e garantiu uma estrutura robusta.
 
-- Oracle
-Implementei o banco de dados com Oracle para armazenar informações da aplicação. A confiabilidade e os recursos da plataforma foram fundamentais para lidar com grandes volumes de dados.
+<details>
+
+| Habilidade | Nota | Classificação |
+| :-----: | :-----: | :-----: | 
+| Spring Boot | ★★★★★ | Sei fazer com autonomia |
+| Oracle | ★★★☆☆ | Sei fazer com ajuda |
+
+
+</details>
 
 #### Soft Skills
-- Trabalho em Equipe: Durante o desenvolvimento do gerenciamento de usuários e da autenticação de usuários, colaborei ativamente com outros membros da equipe para garantir que o sistema estivesse funcionando de forma coesa, implementando soluções técnicas de forma eficaz e dentro dos requisitos do projeto.
-- Gerenciamento de Tempo: Ao entrar no projeto tive que readequar a minha rotina para encontrar um alinhamento entre trabalho e faculdade e semrpe encontrando horários bons para desenvolver os códigos e funções que a mim eram indicados.
+
+
+<details>
+
+| Habilidade | Classificação |
+| :-----: | :-----: |
+| Trabalho em Equipe | Durante o desenvolvimento do gerenciamento de usuários e da autenticação de usuários, colaborei ativamente com outros membros da equipe para garantir que o sistema estivesse funcionando de forma coesa, implementando soluções técnicas de forma eficaz e dentro dos requisitos do projeto. |
+| Gerenciamento de Tempo | Ao entrar no projeto tive que readequar a minha rotina para encontrar um alinhamento entre trabalho e faculdade e sempre encontrando horários bons para desenvolver os códigos e funções que a mim eram indicados. |
+
+</details>
+
+[Página Inicial](https://github.com/wunderlich-15/PortfolioTG/tree/main)
