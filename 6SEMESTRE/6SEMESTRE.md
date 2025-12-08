@@ -326,3 +326,5 @@ class TicketStatusRepository:
 | Porphet | ★★★☆☆ | Sei fazer com ajuda |
 
 </details>
+
+[Página Inicial](https://github.com/wunderlich-15/PortfolioTG/tree/main)
